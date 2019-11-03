@@ -1,0 +1,36 @@
+body{
+
+    text-align: center;
+
+}
+
+
+#msg{
+
+    font-size: 70px;
+    font-weight: bold;
+    padding:1em;
+
+}
+
+#attem{
+
+    padding-top: 1em;
+    font-size: 30px;
+
+
+}
+
+#nTry{
+
+    font-size:20px;
+    font-weight: bold;
+
+}
+
+#msg_inter{
+
+    font-size:20px;
+
+
+}
